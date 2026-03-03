@@ -26,6 +26,7 @@ MyProject_Bundle/        <-- 自動生成される親フォルダ
        │    ├── Metal_Color.png
        │    └── Metal_Roughness.png
        └── background.jpg <-- グループ化の条件を満たさない単発ファイル
+```
 
 ## インストール方法
 1. GitHubの [Releases] ページから、最新の ProjectBundler_vX.X.zip をダウンロードします。（※ソースコードのZipではなく、ReleaseのZipを使用してください）
